@@ -1,0 +1,19 @@
+{
+  "company": [
+    {
+      "companyId": 100001,
+      "firstName": "John",
+      "lastName": "Wick"
+    },
+    {
+      "companyId": "100002",
+      "firstName": "John",
+      "lastName": "Lloyd"
+    },
+    {
+      "companyId": "100003",
+      "firstName": "John",
+      "lastName": "Doe"
+    }
+  ]
+}
